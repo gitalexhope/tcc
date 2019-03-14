@@ -1,0 +1,1 @@
+ALTER TABLE `seller_country_mapping` ADD `status` INT(11) NULL DEFAULT '1' AFTER `country_code`;

@@ -1,0 +1,5520 @@
+  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200
+An uncaught Exception was encountered
+
+Type:        Error
+Message:     Call to undefined function mysqli_init()
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 135
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+A PHP Error was encountered
+
+Severity:    Core Warning
+Message:     PHP Startup: Unable to load dynamic library 'mysqli.so' (tried: /usr/lib/php/20170718/mysqli.so (/usr/lib/php/20170718/mysqli.so: failed to map segment from shared object), /usr/lib/php/20170718/mysqli.so.so (/usr/lib/php/20170718/mysqli.so.so: cannot open shared object file: No such file or directory))
+Filename:    Unknown
+Line Number: 0
+
+Backtrace:
+
+                        
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+                                      SELECT profile_id,prf.seller_id,auth_token,access_key,secret_key,amz_code,cnt.country_code,country_name,mws_url,amz_code FROM amazon_profile AS prf
+          INNER JOIN seller_country_mapping AS cnt ON  prf.is_active=1 AND cnt.seller_id=profile_id
+    INNER JOIN supported_country AS spt ON spt.country_code=cnt.country_code AND spt.is_active=1 and prf.profile_id <> 1  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T07:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T07:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T07:01:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T07:01:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T07:01:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T07:01:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T08:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T08:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T08:01:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T08:01:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T08:01:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T08:01:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T09:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T09:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T09:01:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T09:01:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T09:01:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T09:01:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T10:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T10:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T10:01:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T10:01:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T10:01:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T10:01:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T11:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T11:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T11:01:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T11:01:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T11:01:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T11:01:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T12:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T12:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T12:01:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T12:01:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T12:01:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T12:01:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T13:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T13:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T13:01:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T13:01:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T13:01:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T13:01:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T14:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T14:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T14:01:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T14:01:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T14:01:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T14:01:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T15:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T15:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T15:01:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T15:01:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T15:01:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T15:01:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T16:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T16:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T16:01:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T16:01:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T16:01:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T16:01:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T17:01:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T17:01:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T17:01:02Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T17:01:12Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T17:01:12.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T17:01:12Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T18:01:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T18:01:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T18:01:02Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T18:01:12Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T18:01:12.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T18:01:12Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T19:01:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T19:01:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T19:01:02Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T19:01:12Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T19:01:12.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T19:01:12Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T20:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T20:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T20:01:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T20:01:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T20:01:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T20:01:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T21:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T21:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T21:01:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T21:01:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T21:01:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T21:01:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T22:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T22:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T22:01:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T22:01:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T22:01:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T22:01:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T23:01:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T23:01:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T23:01:02Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T23:01:12Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T23:01:12.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T23:01:12Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T00:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T00:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T00:01:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T00:01:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T00:01:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T00:01:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T01:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T01:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T01:01:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T01:01:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T01:01:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T01:01:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T02:01:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T02:01:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T02:01:02Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T02:01:12Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T02:01:12.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T02:01:12Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T03:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T03:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T03:01:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T03:01:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T03:01:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T03:01:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T04:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T04:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T04:01:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T04:01:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T04:01:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T04:01:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T05:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T05:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T05:01:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T05:01:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T05:01:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T05:01:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T06:01:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T06:01:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T06:01:02Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T06:01:12Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T06:01:12.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T06:01:12Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T08:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T08:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T08:01:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T08:01:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T08:01:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T08:01:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T09:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T09:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T09:01:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T09:01:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T09:01:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T09:01:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T10:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T10:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T10:01:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T10:01:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T10:01:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T10:01:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T11:01:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T11:01:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T11:01:02Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T11:01:12Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T11:01:12.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T11:01:12Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T12:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T12:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T12:01:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T12:01:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T12:01:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T12:01:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T13:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T13:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T13:01:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T13:01:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T13:01:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T13:01:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T14:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T14:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T14:01:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T14:01:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T14:01:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T14:01:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T15:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T15:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T15:01:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-30T15:01:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>304420017926</ReportRequestId>
+      <SubmittedDate>2019-01-30T15:01:01+00:00</SubmittedDate>
+      <StartDate>2019-01-28T15:01:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>a710c1bd-79ea-4acb-a125-69e44474c0dd</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T15:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T15:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T15:01:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-30T15:01:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64170017926</ReportRequestId>
+      <SubmittedDate>2019-01-30T15:01:02+00:00</SubmittedDate>
+      <StartDate>2019-01-28T15:01:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>31312f5e-9cf9-44bd-b9be-c4e5fb21de17</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T16:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T16:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T16:01:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-30T16:01:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>304460017926</ReportRequestId>
+      <SubmittedDate>2019-01-30T16:01:01+00:00</SubmittedDate>
+      <StartDate>2019-01-28T16:01:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>d2b14c73-b04f-4b03-aec7-3cae8db15b55</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T16:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T16:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T16:01:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-30T16:01:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64189017926</ReportRequestId>
+      <SubmittedDate>2019-01-30T16:01:02+00:00</SubmittedDate>
+      <StartDate>2019-01-28T16:01:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>6b94aac7-f03d-43ef-a97d-c09f13624655</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T17:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T17:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T17:01:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-30T17:01:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>304501017926</ReportRequestId>
+      <SubmittedDate>2019-01-30T17:01:02+00:00</SubmittedDate>
+      <StartDate>2019-01-28T17:01:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>ecf700b0-ee34-46af-bda6-c8cb9017c436</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T17:01:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T17:01:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T17:01:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-30T17:01:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64206017926</ReportRequestId>
+      <SubmittedDate>2019-01-30T17:01:02+00:00</SubmittedDate>
+      <StartDate>2019-01-28T17:01:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>2b0f51d1-792a-472f-84b1-038e58465170</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T18:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T18:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T18:01:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-30T18:01:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>304548017926</ReportRequestId>
+      <SubmittedDate>2019-01-30T18:01:01+00:00</SubmittedDate>
+      <StartDate>2019-01-28T18:01:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>35c51af3-c824-48eb-ab1a-3f7878910c18</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T18:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T18:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T18:01:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-30T18:01:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64222017926</ReportRequestId>
+      <SubmittedDate>2019-01-30T18:01:01+00:00</SubmittedDate>
+      <StartDate>2019-01-28T18:01:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>9c0873a9-3352-4839-85f7-5c51565dfbf1</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T19:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T19:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T19:01:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-30T19:01:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>304595017926</ReportRequestId>
+      <SubmittedDate>2019-01-30T19:01:02+00:00</SubmittedDate>
+      <StartDate>2019-01-28T19:01:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>e8bee2f2-b71e-41fb-abbc-5caf5c611612</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T19:01:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T19:01:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T19:01:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-30T19:01:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64239017926</ReportRequestId>
+      <SubmittedDate>2019-01-30T19:01:02+00:00</SubmittedDate>
+      <StartDate>2019-01-28T19:01:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>04f907bf-c4cb-4b83-823b-cc0754d4d815</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T20:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T20:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T20:01:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-30T20:01:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>304636017926</ReportRequestId>
+      <SubmittedDate>2019-01-30T20:01:01+00:00</SubmittedDate>
+      <StartDate>2019-01-28T20:01:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>db5f1cc7-3232-417b-8888-46f1b0162642</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T20:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T20:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T20:01:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-30T20:01:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64255017926</ReportRequestId>
+      <SubmittedDate>2019-01-30T20:01:02+00:00</SubmittedDate>
+      <StartDate>2019-01-28T20:01:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>c288ecf1-8477-4e82-9f7d-1e9b4db7c5aa</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T21:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T21:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T21:01:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-30T21:01:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>304676017926</ReportRequestId>
+      <SubmittedDate>2019-01-30T21:01:01+00:00</SubmittedDate>
+      <StartDate>2019-01-28T21:01:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>6278dbaf-1bbe-4f69-b104-f09a2f3abc6a</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T21:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T21:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T21:01:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-30T21:01:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64269017926</ReportRequestId>
+      <SubmittedDate>2019-01-30T21:01:02+00:00</SubmittedDate>
+      <StartDate>2019-01-28T21:01:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>b9adf092-9508-4087-b065-04817901c037</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T22:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T22:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T22:01:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-30T22:01:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>304715017926</ReportRequestId>
+      <SubmittedDate>2019-01-30T22:01:01+00:00</SubmittedDate>
+      <StartDate>2019-01-28T22:01:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>b9412eac-ee9e-453e-ae83-8b3ada95062c</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T22:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T22:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T22:01:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-30T22:01:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64286017926</ReportRequestId>
+      <SubmittedDate>2019-01-30T22:01:01+00:00</SubmittedDate>
+      <StartDate>2019-01-28T22:01:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>a847e274-31bf-4f80-8399-475abf8317d4</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T23:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T23:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T23:01:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-30T23:01:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>304753017926</ReportRequestId>
+      <SubmittedDate>2019-01-30T23:01:02+00:00</SubmittedDate>
+      <StartDate>2019-01-28T23:01:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>39ab8ae6-4406-47a7-802c-7c96919c91a7</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T23:01:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T23:01:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T23:01:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-30T23:01:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64303017926</ReportRequestId>
+      <SubmittedDate>2019-01-30T23:01:02+00:00</SubmittedDate>
+      <StartDate>2019-01-28T23:01:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>8ff56eeb-f7c8-4477-9805-a96081dd86ee</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T00:01:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T00:01:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T00:01:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T00:01:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>304797017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T00:01:02+00:00</SubmittedDate>
+      <StartDate>2019-01-29T00:01:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>355bb72b-8923-4e30-9a8d-6f86fc9449ec</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T00:01:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T00:01:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T00:01:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T00:01:03+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64316017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T00:01:03+00:00</SubmittedDate>
+      <StartDate>2019-01-29T00:01:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>a6a7eb19-8461-46a9-883e-5fda4eae75e5</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200
+Fatal error: Out of memory (allocated 2097152) (tried to allocate 12288 bytes) in /var/www/html/system/database/DB_query_builder.php on line 2421
+
+Fatal error: Out of memory (allocated 2097152) (tried to allocate 32768 bytes) in /var/www/html/system/core/Exceptions.php on line 1
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T02:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T02:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T02:01:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T02:01:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>304874017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T02:01:01+00:00</SubmittedDate>
+      <StartDate>2019-01-29T02:01:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>5e2c0195-813e-4477-bfcb-709efed6c035</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T02:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T02:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T02:01:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T02:01:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64344017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T02:01:02+00:00</SubmittedDate>
+      <StartDate>2019-01-29T02:01:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>aa9be4d4-0d6e-423c-b9a5-64245f55bd2c</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T03:01:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T03:01:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T03:01:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T03:01:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>304920017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T03:01:02+00:00</SubmittedDate>
+      <StartDate>2019-01-29T03:01:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>2a7a65f7-0757-4cfe-a317-98831f8ac17b</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T03:01:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T03:01:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T03:01:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T03:01:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64360017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T03:01:02+00:00</SubmittedDate>
+      <StartDate>2019-01-29T03:01:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>33399c72-6d06-418f-96fc-c1defa3a19a3</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T04:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T04:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T04:01:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T04:01:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>304963017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T04:01:02+00:00</SubmittedDate>
+      <StartDate>2019-01-29T04:01:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>f559ac20-7f76-478a-bf32-e2c452874719</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T04:01:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T04:01:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T04:01:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T04:01:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64374017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T04:01:02+00:00</SubmittedDate>
+      <StartDate>2019-01-29T04:01:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>b2034d6b-aea1-45b6-98b0-ea5c016c7926</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T05:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T05:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T05:01:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T05:01:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305003017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T05:01:01+00:00</SubmittedDate>
+      <StartDate>2019-01-29T05:01:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>95cdbc0f-a73b-4181-bc1b-eb28f47b0dd0</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T05:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T05:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T05:01:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T05:01:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64392017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T05:01:01+00:00</SubmittedDate>
+      <StartDate>2019-01-29T05:01:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>aa68521a-0575-4338-880d-44e066b47f60</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T06:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T06:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T06:01:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T06:01:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305048017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T06:01:01+00:00</SubmittedDate>
+      <StartDate>2019-01-29T06:01:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>044ef563-b096-43cb-9beb-1441931d972b</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T06:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T06:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T06:01:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T06:01:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64407017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T06:01:01+00:00</SubmittedDate>
+      <StartDate>2019-01-29T06:01:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>d87cb519-dc8f-4006-91b3-8aad65b2ffaf</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T07:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T07:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T07:01:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T07:01:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305089017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T07:01:01+00:00</SubmittedDate>
+      <StartDate>2019-01-29T07:01:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>b02c53e9-5c7c-4da2-bb36-77c00c2eb2c2</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T07:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T07:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T07:01:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T07:01:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64424017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T07:01:01+00:00</SubmittedDate>
+      <StartDate>2019-01-29T07:01:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>c7c07e31-008c-4a85-b13c-fda00e6b5a84</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T08:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T08:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T08:01:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T08:01:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305146017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T08:01:02+00:00</SubmittedDate>
+      <StartDate>2019-01-29T08:01:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>d4da9f00-23e9-4326-8bff-31fa1450dcf3</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T08:01:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T08:01:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T08:01:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T08:01:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64440017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T08:01:02+00:00</SubmittedDate>
+      <StartDate>2019-01-29T08:01:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>fd29969d-f812-4739-a7ac-978676a025df</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T09:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T09:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T09:01:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T09:01:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305195017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T09:01:02+00:00</SubmittedDate>
+      <StartDate>2019-01-29T09:01:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>6263a2bc-2c52-42a2-94a3-0743835073e9</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T09:01:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T09:01:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T09:01:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T09:01:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64457017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T09:01:02+00:00</SubmittedDate>
+      <StartDate>2019-01-29T09:01:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>7810a90d-c001-4fa9-a7f6-97ebfbe48bd7</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T10:01:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T10:01:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T10:01:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T10:01:03+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305236017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T10:01:03+00:00</SubmittedDate>
+      <StartDate>2019-01-29T10:01:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>9f423dd0-fbaa-4c52-bcbe-16a3f93eb15b</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T10:01:03Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T10:01:03.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T10:01:03Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T10:01:03+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64472017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T10:01:03+00:00</SubmittedDate>
+      <StartDate>2019-01-29T10:01:03+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>4a9cc5f6-1eda-4665-902f-4b52df3eb445</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T12:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T12:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T12:01:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T12:01:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305311017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T12:01:01+00:00</SubmittedDate>
+      <StartDate>2019-01-29T12:01:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>16d91d73-3b51-4416-8229-1e3ae79006b8</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T12:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T12:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T12:01:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T12:01:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64495017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T12:01:01+00:00</SubmittedDate>
+      <StartDate>2019-01-29T12:01:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>fd3d6047-f1f8-440e-b99c-3673f18a00ae</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T13:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T13:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T13:01:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T13:01:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305356017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T13:01:01+00:00</SubmittedDate>
+      <StartDate>2019-01-29T13:01:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>4a864401-7ba9-4bf5-b35b-cf2b25772314</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T13:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T13:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T13:01:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T13:01:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64511017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T13:01:01+00:00</SubmittedDate>
+      <StartDate>2019-01-29T13:01:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>c4ada7ed-926a-4c46-b383-2e763107744c</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T14:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T14:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T14:01:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T14:01:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305398017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T14:01:01+00:00</SubmittedDate>
+      <StartDate>2019-01-29T14:01:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>b0314bf6-d3de-4453-b47c-2e12b85dd554</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T14:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T14:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T14:01:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T14:01:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64526017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T14:01:02+00:00</SubmittedDate>
+      <StartDate>2019-01-29T14:01:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>91263fcd-8201-43f6-81ea-1c596e9256c1</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T15:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T15:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T15:01:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T15:01:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305436017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T15:01:02+00:00</SubmittedDate>
+      <StartDate>2019-01-29T15:01:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>5803c5f2-e4bc-4292-9aee-94b071b188c8</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T15:01:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T15:01:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T15:01:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T15:01:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64541017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T15:01:02+00:00</SubmittedDate>
+      <StartDate>2019-01-29T15:01:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>c3ebc026-4929-43cc-a062-9e4fce5ff05a</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T16:01:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T16:01:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T16:01:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T16:01:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305478017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T16:01:02+00:00</SubmittedDate>
+      <StartDate>2019-01-29T16:01:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>1f191162-f8b2-49a0-8002-9f05b2b28025</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T16:01:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T16:01:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T16:01:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T16:01:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64558017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T16:01:02+00:00</SubmittedDate>
+      <StartDate>2019-01-29T16:01:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>79b6163d-aedb-4f70-b1b5-e8f254b20b4c</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T17:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T17:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T17:01:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T17:01:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305520017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T17:01:01+00:00</SubmittedDate>
+      <StartDate>2019-01-29T17:01:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>6eb8d462-7f87-4243-89c3-61ea42d599c3</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T17:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T17:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T17:01:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T17:01:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64573017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T17:01:02+00:00</SubmittedDate>
+      <StartDate>2019-01-29T17:01:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>546dd347-4fba-4e3e-8454-0d220e4069b1</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T18:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T18:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T18:01:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T18:01:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305565017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T18:01:01+00:00</SubmittedDate>
+      <StartDate>2019-01-29T18:01:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>7698d511-0487-4e52-81e8-8f79b4b007d7</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T18:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T18:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T18:01:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T18:01:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64591017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T18:01:01+00:00</SubmittedDate>
+      <StartDate>2019-01-29T18:01:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>7fb1d333-2bb3-4a23-852d-a923c4962881</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T19:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T19:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T19:01:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T19:01:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305612017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T19:01:02+00:00</SubmittedDate>
+      <StartDate>2019-01-29T19:01:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>45fd8074-6415-402b-8109-e6ea16e475a9</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T19:01:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T19:01:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T19:01:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T19:01:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64608017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T19:01:02+00:00</SubmittedDate>
+      <StartDate>2019-01-29T19:01:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>feda7bdb-e880-42f6-b23d-5f57ebb0ca77</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T20:01:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T20:01:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T20:01:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T20:01:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305650017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T20:01:02+00:00</SubmittedDate>
+      <StartDate>2019-01-29T20:01:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>3eec7e32-8312-49e3-a55c-2d1c0d17364c</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T20:01:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T20:01:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T20:01:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T20:01:03+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64622017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T20:01:03+00:00</SubmittedDate>
+      <StartDate>2019-01-29T20:01:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>9a3c7364-9820-44d3-8af0-b405bd763136</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200
+Fatal error: Out of memory (allocated 2097152) (tried to allocate 12288 bytes) in /var/www/html/system/database/DB_query_builder.php on line 2421
+
+Fatal error: Out of memory (allocated 2097152) (tried to allocate 32768 bytes) in /var/www/html/system/core/Exceptions.php on line 1
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T23:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T23:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T23:01:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T23:01:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305752017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T23:01:02+00:00</SubmittedDate>
+      <StartDate>2019-01-29T23:01:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>926928ea-288a-4e9a-b421-a73e0af9ddf0</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T23:01:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T23:01:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T23:01:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T23:01:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64651017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T23:01:02+00:00</SubmittedDate>
+      <StartDate>2019-01-29T23:01:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>a49008fd-cfd8-4643-96d3-53caf95a3ccf</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T00:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-02-01T00:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T00:01:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-02-01T00:01:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305794017928</ReportRequestId>
+      <SubmittedDate>2019-02-01T00:01:01+00:00</SubmittedDate>
+      <StartDate>2019-01-30T00:01:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>b26c13df-c8eb-4eed-8fc9-1abeddd3e541</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T00:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-02-01T00:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T00:01:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-02-01T00:01:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64669017928</ReportRequestId>
+      <SubmittedDate>2019-02-01T00:01:02+00:00</SubmittedDate>
+      <StartDate>2019-01-30T00:01:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>6e0ecc0f-df5f-41e7-8175-8762c90f3a17</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T01:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-02-01T01:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T01:01:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-02-01T01:01:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305843017928</ReportRequestId>
+      <SubmittedDate>2019-02-01T01:01:02+00:00</SubmittedDate>
+      <StartDate>2019-01-30T01:01:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>6b40566e-2398-46cf-9407-55dbbc1f79bb</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T01:01:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-02-01T01:01:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T01:01:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-02-01T01:01:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64685017928</ReportRequestId>
+      <SubmittedDate>2019-02-01T01:01:02+00:00</SubmittedDate>
+      <StartDate>2019-01-30T01:01:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>44599a62-a2cd-4122-83e1-7a86f876a516</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T02:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-02-01T02:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T02:01:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-02-01T02:01:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305890017928</ReportRequestId>
+      <SubmittedDate>2019-02-01T02:01:02+00:00</SubmittedDate>
+      <StartDate>2019-01-30T02:01:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>26380c16-44f8-4ad9-80d3-4ddfe6296f2d</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T02:01:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-02-01T02:01:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T02:01:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-02-01T02:01:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64702017928</ReportRequestId>
+      <SubmittedDate>2019-02-01T02:01:02+00:00</SubmittedDate>
+      <StartDate>2019-01-30T02:01:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>deaaff5e-5c78-42d6-9594-6d37e662b8d9</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T03:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-02-01T03:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T03:01:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-02-01T03:01:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305933017928</ReportRequestId>
+      <SubmittedDate>2019-02-01T03:01:02+00:00</SubmittedDate>
+      <StartDate>2019-01-30T03:01:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>959e1ff4-22eb-4094-88e6-efe0f910a1e2</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T03:01:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-02-01T03:01:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T03:01:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-02-01T03:01:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64718017928</ReportRequestId>
+      <SubmittedDate>2019-02-01T03:01:02+00:00</SubmittedDate>
+      <StartDate>2019-01-30T03:01:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>8dde6a2b-2fcf-4c9a-91de-b130c5d629d5</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T04:01:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-02-01T04:01:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T04:01:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-02-01T04:01:03+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305975017928</ReportRequestId>
+      <SubmittedDate>2019-02-01T04:01:03+00:00</SubmittedDate>
+      <StartDate>2019-01-30T04:01:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>cf8a4cf4-cf34-44af-8880-1ed686ad144f</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T04:01:03Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-02-01T04:01:03.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T04:01:03Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-02-01T04:01:03+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64735017928</ReportRequestId>
+      <SubmittedDate>2019-02-01T04:01:03+00:00</SubmittedDate>
+      <StartDate>2019-01-30T04:01:03+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>5596107b-5198-4ba6-8e52-7f328d12f900</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T05:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-02-01T05:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T05:01:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-02-01T05:01:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>306013017928</ReportRequestId>
+      <SubmittedDate>2019-02-01T05:01:01+00:00</SubmittedDate>
+      <StartDate>2019-01-30T05:01:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>9349ef0e-30be-456d-aeb4-f8892d6457f5</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T05:01:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-02-01T05:01:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T05:01:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-02-01T05:01:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64753017928</ReportRequestId>
+      <SubmittedDate>2019-02-01T05:01:01+00:00</SubmittedDate>
+      <StartDate>2019-01-30T05:01:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>12012b7a-2b15-4621-a367-1f6279ceb952</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T06:01:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-02-01T06:01:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T06:01:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-02-01T06:01:03+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>306058017928</ReportRequestId>
+      <SubmittedDate>2019-02-01T06:01:03+00:00</SubmittedDate>
+      <StartDate>2019-01-30T06:01:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>d824dba5-b2f0-4473-ad90-c3c6802f6c27</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T06:01:03Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-02-01T06:01:03.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T06:01:03Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-02-01T06:01:04+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64767017928</ReportRequestId>
+      <SubmittedDate>2019-02-01T06:01:04+00:00</SubmittedDate>
+      <StartDate>2019-01-30T06:01:03+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>93213fb9-72cf-45b2-8190-105f2488dd39</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T07:01:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-02-01T07:01:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T07:01:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-02-01T07:01:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>306097017928</ReportRequestId>
+      <SubmittedDate>2019-02-01T07:01:02+00:00</SubmittedDate>
+      <StartDate>2019-01-30T07:01:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>563200c7-3f33-402e-ae4a-7a14014a6959</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T07:01:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-02-01T07:01:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T07:01:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-02-01T07:01:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64778017928</ReportRequestId>
+      <SubmittedDate>2019-02-01T07:01:02+00:00</SubmittedDate>
+      <StartDate>2019-01-30T07:01:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>1363ff1b-fdc6-4a12-b15b-8d36155daaed</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T08:01:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-02-01T08:01:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T08:01:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-02-01T08:01:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>306147017928</ReportRequestId>
+      <SubmittedDate>2019-02-01T08:01:02+00:00</SubmittedDate>
+      <StartDate>2019-01-30T08:01:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>2e1cea8a-801d-487f-ad24-2fa2175f5ace</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T08:01:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-02-01T08:01:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T08:01:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_ESTIMATED_FBA_FEES_TXT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-02-01T08:01:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64796017928</ReportRequestId>
+      <SubmittedDate>2019-02-01T08:01:02+00:00</SubmittedDate>
+      <StartDate>2019-01-30T08:01:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>a48195bc-a936-4222-858d-51c12d4e44ec</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200

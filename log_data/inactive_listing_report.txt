@@ -1,0 +1,5578 @@
+  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200
+Fatal error: Out of memory (allocated 2097152) (tried to allocate 12288 bytes) in /var/www/html/system/database/DB_query_builder.php on line 2421
+
+Fatal error: Out of memory (allocated 2097152) (tried to allocate 32768 bytes) in /var/www/html/system/core/Exceptions.php on line 1
+                        
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+                                        Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T06:07:12Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T06:07:22Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T07:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T07:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T07:07:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T07:07:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T07:07:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T07:07:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T08:07:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T08:07:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T08:07:02Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T08:07:12Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T08:07:12.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T08:07:12Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T09:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T09:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T09:07:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T09:07:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T09:07:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T09:07:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T10:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T10:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T10:07:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T10:07:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T10:07:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T10:07:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T11:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T11:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T11:07:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T11:07:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T11:07:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T11:07:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T12:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T12:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T12:07:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T12:07:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T12:07:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T12:07:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T13:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T13:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T13:07:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T13:07:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T13:07:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T13:07:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T14:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T14:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T14:07:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T14:07:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T14:07:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T14:07:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T15:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T15:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T15:07:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T15:07:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T15:07:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T15:07:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T16:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T16:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T16:07:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T16:07:12Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T16:07:12.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T16:07:12Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T17:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T17:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T17:07:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T17:07:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T17:07:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T17:07:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T18:07:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T18:07:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T18:07:02Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T18:07:12Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T18:07:12.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T18:07:12Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T19:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T19:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T19:07:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T19:07:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T19:07:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T19:07:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T20:07:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T20:07:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T20:07:02Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T20:07:12Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T20:07:12.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T20:07:12Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T21:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T21:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T21:07:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T21:07:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T21:07:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T21:07:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T22:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T22:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T22:07:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T22:07:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T22:07:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T22:07:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T23:07:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T23:07:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T23:07:02Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T23:07:12Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T23:07:12.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-27T23:07:12Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T00:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T00:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T00:07:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T00:07:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T00:07:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T00:07:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T01:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T01:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T01:07:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T01:07:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T01:07:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T01:07:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T02:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T02:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T02:07:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T02:07:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T02:07:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T02:07:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T03:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T03:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T03:07:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T03:07:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T03:07:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T03:07:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T04:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T04:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T04:07:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T04:07:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T04:07:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T04:07:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T05:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T05:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T05:07:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T05:07:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T05:07:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T05:07:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T06:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T06:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T06:07:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T06:07:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T06:07:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T06:07:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T07:07:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T07:07:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T07:07:02Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T07:07:12Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T07:07:12.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T07:07:12Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T08:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T08:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T08:07:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T08:07:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T08:07:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T08:07:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T09:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T09:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T09:07:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T09:07:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T09:07:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T09:07:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T10:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T10:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T10:07:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T10:07:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T10:07:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T10:07:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T11:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T11:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T11:07:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T11:07:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T11:07:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T11:07:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T12:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T12:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T12:07:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T12:07:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T12:07:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T12:07:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T13:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T13:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T13:07:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T13:07:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T13:07:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T13:07:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T14:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T14:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T14:07:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T14:07:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T14:07:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T14:07:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T15:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T15:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T15:07:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-30T15:07:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>304426017926</ReportRequestId>
+      <SubmittedDate>2019-01-30T15:07:01+00:00</SubmittedDate>
+      <StartDate>2019-01-28T15:07:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>b8a57174-b9a3-4b65-a72f-e4e0a8a62532</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T15:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T15:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T15:07:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-30T15:07:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64174017926</ReportRequestId>
+      <SubmittedDate>2019-01-30T15:07:02+00:00</SubmittedDate>
+      <StartDate>2019-01-28T15:07:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>7e5e5742-1954-4784-97e3-9b098a9fb750</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T16:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T16:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T16:07:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-30T16:07:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>304466017926</ReportRequestId>
+      <SubmittedDate>2019-01-30T16:07:02+00:00</SubmittedDate>
+      <StartDate>2019-01-28T16:07:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>935cce16-7fd2-49df-86c8-fda8a6b3b558</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T16:07:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T16:07:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T16:07:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-30T16:07:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64192017926</ReportRequestId>
+      <SubmittedDate>2019-01-30T16:07:02+00:00</SubmittedDate>
+      <StartDate>2019-01-28T16:07:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>786afd1a-86c6-4d8d-9b0a-447938678769</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T17:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T17:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T17:07:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-30T17:07:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>304507017926</ReportRequestId>
+      <SubmittedDate>2019-01-30T17:07:01+00:00</SubmittedDate>
+      <StartDate>2019-01-28T17:07:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>6105379a-18a2-4c14-8fbd-8e70282e18ff</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T17:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T17:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T17:07:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-30T17:07:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64209017926</ReportRequestId>
+      <SubmittedDate>2019-01-30T17:07:01+00:00</SubmittedDate>
+      <StartDate>2019-01-28T17:07:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>2dc90465-ccf9-4574-a59b-d959cbe77e25</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T18:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T18:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T18:07:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-30T18:07:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>304553017926</ReportRequestId>
+      <SubmittedDate>2019-01-30T18:07:02+00:00</SubmittedDate>
+      <StartDate>2019-01-28T18:07:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>594ba782-bb49-4932-899c-1ade0c8b439b</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T18:07:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T18:07:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T18:07:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-30T18:07:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64225017926</ReportRequestId>
+      <SubmittedDate>2019-01-30T18:07:02+00:00</SubmittedDate>
+      <StartDate>2019-01-28T18:07:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>29fa697c-28aa-495b-8d5c-7ff8356444fa</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T19:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T19:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T19:07:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-30T19:07:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>304600017926</ReportRequestId>
+      <SubmittedDate>2019-01-30T19:07:01+00:00</SubmittedDate>
+      <StartDate>2019-01-28T19:07:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>e7ac490e-1ce2-4fa4-92d7-73daf267c5ce</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T19:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T19:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T19:07:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-30T19:07:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64242017926</ReportRequestId>
+      <SubmittedDate>2019-01-30T19:07:01+00:00</SubmittedDate>
+      <StartDate>2019-01-28T19:07:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>d8f26b24-10fb-4a40-98d8-4bf12d8d339d</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T20:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T20:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T20:07:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-30T20:07:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>304640017926</ReportRequestId>
+      <SubmittedDate>2019-01-30T20:07:01+00:00</SubmittedDate>
+      <StartDate>2019-01-28T20:07:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>1809fe88-7816-4406-bbf8-9f0a964f971d</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T20:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T20:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T20:07:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-30T20:07:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64258017926</ReportRequestId>
+      <SubmittedDate>2019-01-30T20:07:02+00:00</SubmittedDate>
+      <StartDate>2019-01-28T20:07:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>0faec478-2a28-4b61-8ad2-b881ac2bf086</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T21:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T21:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T21:07:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-30T21:07:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>304682017926</ReportRequestId>
+      <SubmittedDate>2019-01-30T21:07:02+00:00</SubmittedDate>
+      <StartDate>2019-01-28T21:07:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>c455acc8-05c7-4257-8108-5a48f14a24cd</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T21:07:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T21:07:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T21:07:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-30T21:07:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64274017926</ReportRequestId>
+      <SubmittedDate>2019-01-30T21:07:02+00:00</SubmittedDate>
+      <StartDate>2019-01-28T21:07:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>6a089382-5e77-4ce9-9307-7b42649f9103</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T22:07:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T22:07:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T22:07:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-30T22:07:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>304722017926</ReportRequestId>
+      <SubmittedDate>2019-01-30T22:07:02+00:00</SubmittedDate>
+      <StartDate>2019-01-28T22:07:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>0652b037-3c7e-4e69-bac3-cf14873fa83d</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T22:07:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T22:07:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T22:07:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-30T22:07:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64290017926</ReportRequestId>
+      <SubmittedDate>2019-01-30T22:07:02+00:00</SubmittedDate>
+      <StartDate>2019-01-28T22:07:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>aad2f615-a7c7-4eec-b82e-32e8ca96d078</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T23:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T23:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T23:07:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-30T23:07:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>304760017926</ReportRequestId>
+      <SubmittedDate>2019-01-30T23:07:02+00:00</SubmittedDate>
+      <StartDate>2019-01-28T23:07:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>44ae154f-7260-4c33-ac7b-189b8daac552</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T23:07:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T23:07:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-28T23:07:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-30T23:07:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64307017926</ReportRequestId>
+      <SubmittedDate>2019-01-30T23:07:02+00:00</SubmittedDate>
+      <StartDate>2019-01-28T23:07:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>390c0e99-4487-4e9c-a845-2a338de91a6f</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T00:07:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T00:07:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T00:07:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T00:07:03+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>304804017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T00:07:03+00:00</SubmittedDate>
+      <StartDate>2019-01-29T00:07:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>3907f9cc-8db3-49ad-a550-ee283f920820</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T00:07:03Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T00:07:03.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T00:07:03Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T00:07:03+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64321017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T00:07:03+00:00</SubmittedDate>
+      <StartDate>2019-01-29T00:07:03+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>8088e7a6-7bd0-4c56-8220-14164b8f3adf</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200
+Fatal error: Out of memory (allocated 2097152) (tried to allocate 12288 bytes) in /var/www/html/system/database/DB_query_builder.php on line 2421
+
+Fatal error: Out of memory (allocated 2097152) (tried to allocate 32768 bytes) in /var/www/html/system/core/Exceptions.php on line 1
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T02:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T02:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T02:07:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T02:07:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>304880017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T02:07:01+00:00</SubmittedDate>
+      <StartDate>2019-01-29T02:07:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>c7c00a95-60f3-4604-a601-e3c4a17f87bc</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T02:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T02:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T02:07:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T02:07:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64347017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T02:07:01+00:00</SubmittedDate>
+      <StartDate>2019-01-29T02:07:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>4092ccd7-6dab-4cbb-b0f2-c7cba5821db4</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T03:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T03:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T03:07:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T03:07:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>304929017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T03:07:01+00:00</SubmittedDate>
+      <StartDate>2019-01-29T03:07:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>2edefb25-84a9-4eb6-a3ea-ed1ecdc3724b</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T03:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T03:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T03:07:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T03:07:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64363017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T03:07:02+00:00</SubmittedDate>
+      <StartDate>2019-01-29T03:07:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>d7f44f62-c796-4365-9ac3-2a16b9072a55</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T04:07:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T04:07:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T04:07:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T04:07:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>304969017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T04:07:02+00:00</SubmittedDate>
+      <StartDate>2019-01-29T04:07:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>f661a2e9-0a99-4e61-ab36-ea8c2a255c8a</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T04:07:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T04:07:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T04:07:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T04:07:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64379017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T04:07:02+00:00</SubmittedDate>
+      <StartDate>2019-01-29T04:07:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>61a25420-6acb-455d-b1ab-1bded8be0d77</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T05:07:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T05:07:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T05:07:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T05:07:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305008017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T05:07:02+00:00</SubmittedDate>
+      <StartDate>2019-01-29T05:07:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>df7a97e7-772b-4fa1-9846-9fb7032e95bc</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T05:07:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T05:07:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T05:07:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T05:07:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64396017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T05:07:02+00:00</SubmittedDate>
+      <StartDate>2019-01-29T05:07:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>af7e1edb-87f8-4a95-9a34-ddfb19cc41bb</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T06:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T06:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T06:07:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T06:07:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305057017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T06:07:01+00:00</SubmittedDate>
+      <StartDate>2019-01-29T06:07:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>31c47e2b-fcea-4fe0-885b-27df585a357d</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T06:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T06:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T06:07:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T06:07:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64412017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T06:07:01+00:00</SubmittedDate>
+      <StartDate>2019-01-29T06:07:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>1cbe6756-f147-48cd-97e4-1cb1cf9c150c</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T07:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T07:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T07:07:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T07:07:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305100017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T07:07:01+00:00</SubmittedDate>
+      <StartDate>2019-01-29T07:07:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>6947cbb8-fcc7-4c78-a8eb-3e0a0cdc057e</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T07:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T07:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T07:07:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T07:07:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64427017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T07:07:01+00:00</SubmittedDate>
+      <StartDate>2019-01-29T07:07:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>dc45d211-14ee-44be-8d18-7f30d89f7667</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T08:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T08:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T08:07:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T08:07:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305153017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T08:07:01+00:00</SubmittedDate>
+      <StartDate>2019-01-29T08:07:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>ba0c0de4-6b81-4fe1-b796-c3b82552bc61</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T08:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T08:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T08:07:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T08:07:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64443017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T08:07:01+00:00</SubmittedDate>
+      <StartDate>2019-01-29T08:07:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>2c73a36c-e31e-4ec0-8b77-c5a7d23d5922</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T09:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T09:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T09:07:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T09:07:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305201017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T09:07:02+00:00</SubmittedDate>
+      <StartDate>2019-01-29T09:07:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>b82cb114-ac46-447c-9532-1fa8606fed1b</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T09:07:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T09:07:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T09:07:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T09:07:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64460017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T09:07:02+00:00</SubmittedDate>
+      <StartDate>2019-01-29T09:07:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>288003fe-f2ff-410b-8d25-5d6ce1a1b75b</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T10:07:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T10:07:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T10:07:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T10:07:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305243017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T10:07:02+00:00</SubmittedDate>
+      <StartDate>2019-01-29T10:07:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>5c03198c-af42-421d-86ab-d1aaab26667c</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T10:07:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T10:07:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T10:07:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T10:07:03+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64475017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T10:07:03+00:00</SubmittedDate>
+      <StartDate>2019-01-29T10:07:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>b9fb5b0b-d9aa-4e74-8406-77b08c1018b0</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200
+Fatal error: Out of memory (allocated 2097152) (tried to allocate 12288 bytes) in /var/www/html/system/database/DB_query_builder.php on line 2421
+
+Fatal error: Out of memory (allocated 2097152) (tried to allocate 32768 bytes) in /var/www/html/system/core/Exceptions.php on line 1
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T12:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T12:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T12:07:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T12:07:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305322017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T12:07:01+00:00</SubmittedDate>
+      <StartDate>2019-01-29T12:07:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>eb82e144-60db-4873-95e6-fe09fea96b06</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T12:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T12:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T12:07:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T12:07:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64499017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T12:07:01+00:00</SubmittedDate>
+      <StartDate>2019-01-29T12:07:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>49ddb3fa-693f-4989-ac30-96c5a493fff0</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T13:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T13:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T13:07:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T13:07:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305362017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T13:07:01+00:00</SubmittedDate>
+      <StartDate>2019-01-29T13:07:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>3a17d354-f3c5-4bf4-aee7-aaf959865465</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T13:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T13:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T13:07:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T13:07:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64515017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T13:07:01+00:00</SubmittedDate>
+      <StartDate>2019-01-29T13:07:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>0e4f907b-f13d-4dd8-84a9-ca9ddd55d364</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T14:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T14:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T14:07:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T14:07:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305405017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T14:07:01+00:00</SubmittedDate>
+      <StartDate>2019-01-29T14:07:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>11c160d8-c6bd-4163-aa3f-90e98530311e</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T14:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T14:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T14:07:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T14:07:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64530017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T14:07:02+00:00</SubmittedDate>
+      <StartDate>2019-01-29T14:07:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>577fcb8f-38a0-4819-9084-3dbed2630766</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T15:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T15:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T15:07:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T15:07:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305442017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T15:07:02+00:00</SubmittedDate>
+      <StartDate>2019-01-29T15:07:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>cb3a8871-fb53-42a8-8235-3342ca15a292</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T15:07:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T15:07:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T15:07:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T15:07:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64544017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T15:07:02+00:00</SubmittedDate>
+      <StartDate>2019-01-29T15:07:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>41b53e80-0210-4693-af8f-8151cd9a4a08</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T16:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T16:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T16:07:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T16:07:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305483017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T16:07:02+00:00</SubmittedDate>
+      <StartDate>2019-01-29T16:07:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>6a43d53e-ceab-44f3-8184-846cf0228215</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T16:07:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T16:07:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T16:07:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T16:07:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64561017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T16:07:02+00:00</SubmittedDate>
+      <StartDate>2019-01-29T16:07:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>512a6465-cd9f-4728-8ea6-addbefdc3e1a</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T17:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T17:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T17:07:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T17:07:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305526017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T17:07:01+00:00</SubmittedDate>
+      <StartDate>2019-01-29T17:07:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>a2f7951a-fd40-412e-91b6-fe5c13dd40de</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T17:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T17:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T17:07:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T17:07:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64577017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T17:07:01+00:00</SubmittedDate>
+      <StartDate>2019-01-29T17:07:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>8013496e-0ca6-4ad2-98dd-8c15f35e33bb</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T18:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T18:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T18:07:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T18:07:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305571017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T18:07:01+00:00</SubmittedDate>
+      <StartDate>2019-01-29T18:07:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>23bedd7f-c572-41d3-ac2d-936ce159abe8</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T18:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T18:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T18:07:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T18:07:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64594017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T18:07:01+00:00</SubmittedDate>
+      <StartDate>2019-01-29T18:07:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>735bf495-e815-488f-92f1-074e4a892f7d</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T19:07:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T19:07:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T19:07:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T19:07:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305618017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T19:07:02+00:00</SubmittedDate>
+      <StartDate>2019-01-29T19:07:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>59660be3-e905-497b-aff6-0fa582c4905b</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T19:07:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T19:07:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T19:07:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T19:07:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64611017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T19:07:02+00:00</SubmittedDate>
+      <StartDate>2019-01-29T19:07:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>ec52806b-8ea4-48bd-90bb-bee4b45e1db1</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T20:07:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T20:07:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T20:07:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T20:07:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305657017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T20:07:02+00:00</SubmittedDate>
+      <StartDate>2019-01-29T20:07:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>302b57e3-c048-4744-81de-35625c98b001</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T20:07:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T20:07:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T20:07:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T20:07:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64625017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T20:07:02+00:00</SubmittedDate>
+      <StartDate>2019-01-29T20:07:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>a57a0d0e-430e-4978-83c4-ad62fb0e9ab3</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200
+Fatal error: Out of memory (allocated 2097152) (tried to allocate 12288 bytes) in /var/www/html/system/database/DB_query_builder.php on line 2421
+
+Fatal error: Out of memory (allocated 2097152) (tried to allocate 32768 bytes) in /var/www/html/system/core/Exceptions.php on line 1
+
+Fatal error: Out of memory (allocated 2097152) (tried to allocate 12288 bytes) in /var/www/html/system/database/DB_query_builder.php on line 2421
+
+Fatal error: Out of memory (allocated 2097152) (tried to allocate 32768 bytes) in /var/www/html/system/core/Exceptions.php on line 1
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T23:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T23:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T23:07:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T23:07:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305758017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T23:07:01+00:00</SubmittedDate>
+      <StartDate>2019-01-29T23:07:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>1af970a0-851b-4ba9-9694-ac8f90ba3a69</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T23:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T23:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-29T23:07:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T23:07:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64654017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T23:07:01+00:00</SubmittedDate>
+      <StartDate>2019-01-29T23:07:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>b1dbf02b-d156-4a7f-8086-375b99623748</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T00:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-02-01T00:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T00:07:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-02-01T00:07:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305802017928</ReportRequestId>
+      <SubmittedDate>2019-02-01T00:07:02+00:00</SubmittedDate>
+      <StartDate>2019-01-30T00:07:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>5645d183-c9ce-41ae-b685-07f2af8c2546</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T00:07:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-02-01T00:07:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T00:07:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-02-01T00:07:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64672017928</ReportRequestId>
+      <SubmittedDate>2019-02-01T00:07:02+00:00</SubmittedDate>
+      <StartDate>2019-01-30T00:07:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>88aaac96-f101-4b9c-be6b-09ebd5c1d0f8</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T01:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-02-01T01:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T01:07:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-02-01T01:07:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305851017928</ReportRequestId>
+      <SubmittedDate>2019-02-01T01:07:01+00:00</SubmittedDate>
+      <StartDate>2019-01-30T01:07:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>e18da618-1f5a-4d2d-9743-3844d118faa6</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T01:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-02-01T01:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T01:07:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-02-01T01:07:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64688017928</ReportRequestId>
+      <SubmittedDate>2019-02-01T01:07:02+00:00</SubmittedDate>
+      <StartDate>2019-01-30T01:07:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>a6b03a92-c384-4b81-b34e-4709e4c1cdc5</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T02:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-02-01T02:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T02:07:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-02-01T02:07:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305896017928</ReportRequestId>
+      <SubmittedDate>2019-02-01T02:07:01+00:00</SubmittedDate>
+      <StartDate>2019-01-30T02:07:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>3a01f7d1-ffea-4e20-82a2-3c7d276630da</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T02:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-02-01T02:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T02:07:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-02-01T02:07:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64705017928</ReportRequestId>
+      <SubmittedDate>2019-02-01T02:07:02+00:00</SubmittedDate>
+      <StartDate>2019-01-30T02:07:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>03bd2d7d-0610-4fd4-aa19-c81ed55198a6</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T03:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-02-01T03:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T03:07:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-02-01T03:07:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305937017928</ReportRequestId>
+      <SubmittedDate>2019-02-01T03:07:01+00:00</SubmittedDate>
+      <StartDate>2019-01-30T03:07:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>911fab39-6a35-492a-b42a-92b0d50e5aab</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T03:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-02-01T03:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T03:07:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-02-01T03:07:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64721017928</ReportRequestId>
+      <SubmittedDate>2019-02-01T03:07:02+00:00</SubmittedDate>
+      <StartDate>2019-01-30T03:07:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>a712d59a-2665-434a-bc32-12f3e7c6f8b1</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T04:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-02-01T04:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T04:07:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-02-01T04:07:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305979017928</ReportRequestId>
+      <SubmittedDate>2019-02-01T04:07:01+00:00</SubmittedDate>
+      <StartDate>2019-01-30T04:07:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>76e1c92c-7276-4642-afba-c4efe45298dc</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T04:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-02-01T04:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T04:07:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-02-01T04:07:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64738017928</ReportRequestId>
+      <SubmittedDate>2019-02-01T04:07:01+00:00</SubmittedDate>
+      <StartDate>2019-01-30T04:07:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>43689820-f76d-4723-9538-986f43546475</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T05:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-02-01T05:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T05:07:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-02-01T05:07:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>306019017928</ReportRequestId>
+      <SubmittedDate>2019-02-01T05:07:02+00:00</SubmittedDate>
+      <StartDate>2019-01-30T05:07:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>2a7d9037-9159-4d22-94db-7436ede928ce</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T05:07:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-02-01T05:07:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T05:07:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-02-01T05:07:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64757017928</ReportRequestId>
+      <SubmittedDate>2019-02-01T05:07:02+00:00</SubmittedDate>
+      <StartDate>2019-01-30T05:07:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>773da815-3d56-4aa9-9290-8ccbbe20202e</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T06:07:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-02-01T06:07:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T06:07:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-02-01T06:07:03+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>306064017928</ReportRequestId>
+      <SubmittedDate>2019-02-01T06:07:03+00:00</SubmittedDate>
+      <StartDate>2019-01-30T06:07:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>8e5057dd-453a-4938-b8ae-3473a1b5d5de</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T06:07:03Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-02-01T06:07:03.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T06:07:03Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-02-01T06:07:04+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64770017928</ReportRequestId>
+      <SubmittedDate>2019-02-01T06:07:04+00:00</SubmittedDate>
+      <StartDate>2019-01-30T06:07:03+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>a36defe7-fad8-43ea-92f8-554f2523537a</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T07:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-02-01T07:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T07:07:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-02-01T07:07:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>306101017928</ReportRequestId>
+      <SubmittedDate>2019-02-01T07:07:01+00:00</SubmittedDate>
+      <StartDate>2019-01-30T07:07:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>4103ad31-95b4-4d50-b3c1-d74bff517b98</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T07:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-02-01T07:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T07:07:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-02-01T07:07:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64782017928</ReportRequestId>
+      <SubmittedDate>2019-02-01T07:07:02+00:00</SubmittedDate>
+      <StartDate>2019-01-30T07:07:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>e327a2b1-3bf7-487c-b73f-721e2f2e52d5</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T08:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-02-01T08:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T08:07:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-02-01T08:07:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>306153017928</ReportRequestId>
+      <SubmittedDate>2019-02-01T08:07:01+00:00</SubmittedDate>
+      <StartDate>2019-01-30T08:07:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>7d28b63f-7cd0-4df8-a9af-cc55212266e8</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T08:07:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-02-01T08:07:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_MERCHANT_LISTINGS_INACTIVE_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-30T08:07:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_MERCHANT_LISTINGS_INACTIVE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-02-01T08:07:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64799017928</ReportRequestId>
+      <SubmittedDate>2019-02-01T08:07:02+00:00</SubmittedDate>
+      <StartDate>2019-01-30T08:07:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>111370b4-4863-416d-b375-3857abe1c91a</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200

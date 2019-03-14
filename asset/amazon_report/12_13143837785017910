@@ -1,0 +1,3 @@
+return-date	order-id	sku	asin	fnsku	product-name	quantity	fulfillment-center-id	detailed-disposition	reason	status	license-plate-number	customer-comments
+2019-01-10T13:15:34+00:00	114-1390820-3075417	NH-B00O8QIN9W	B00O8QIN9W	X001ZFJ2K9	Freeze Dried Chicken Liver	1	IND8	CUSTOMER_DAMAGED	DEFECTIVE	Unit returned to inventory	LPNN206244977	
+2019-01-10T03:57:42+00:00	114-4709672-3403435	NH-B01NAB328R	B01NAB328R	X001ZFCIUP	Bastion Bolt Action Pen - Stainless Steel Police Grade Survival Tactical Pen w/Clip, Can be Used as a Glass Breaker, Ideal Multi Tool for Self Defense	1	LAS2	SELLABLE	UNDELIVERABLE_UNKNOWN	Unit returned to inventory	LPNRR635013241	

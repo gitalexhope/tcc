@@ -1,0 +1,5606 @@
+  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200  200200
+Fatal error: Out of memory (allocated 2097152) (tried to allocate 12288 bytes) in /var/www/html/system/database/DB_query_builder.php on line 2421
+
+Fatal error: Out of memory (allocated 2097152) (tried to allocate 32768 bytes) in /var/www/html/system/core/Exceptions.php on line 1
+    
+Fatal error: Out of memory (allocated 2097152) (tried to allocate 12288 bytes) in /var/www/html/system/database/DB_query_builder.php on line 2421
+
+Fatal error: Out of memory (allocated 2097152) (tried to allocate 32768 bytes) in /var/www/html/system/core/Exceptions.php on line 1
+                  
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+                                      SELECT profile_id,prf.seller_id,auth_token,access_key,secret_key,amz_code,cnt.country_code,country_name,mws_url,amz_code FROM amazon_profile AS prf
+          INNER JOIN seller_country_mapping AS cnt ON  prf.is_active=1 AND cnt.seller_id=profile_id
+    INNER JOIN supported_country AS spt ON spt.country_code=cnt.country_code AND spt.is_active=1 and prf.profile_id <> 1  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T07:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T07:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T07:03:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T07:03:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T07:03:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T07:03:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T08:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T08:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T08:03:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T08:03:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T08:03:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T08:03:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T09:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T09:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T09:03:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T09:03:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T09:03:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T09:03:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T10:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T10:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T10:03:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T10:03:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T10:03:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T10:03:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T11:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T11:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T11:03:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T11:03:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T11:03:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T11:03:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T12:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T12:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T12:03:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T12:03:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T12:03:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T12:03:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T13:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T13:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T13:03:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T13:03:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T13:03:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T13:03:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T14:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T14:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T14:03:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T14:03:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T14:03:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T14:03:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T15:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T15:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T15:03:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T15:03:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T15:03:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T15:03:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T16:03:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T16:03:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T16:03:02Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T16:03:12Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T16:03:12.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T16:03:12Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T17:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T17:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T17:03:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T17:03:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T17:03:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T17:03:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T18:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T18:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T18:03:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T18:03:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T18:03:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T18:03:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T19:03:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T19:03:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T19:03:02Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T19:03:12Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T19:03:12.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T19:03:12Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T20:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T20:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T20:03:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T20:03:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T20:03:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T20:03:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T21:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T21:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T21:03:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T21:03:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T21:03:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T21:03:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T22:03:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T22:03:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T22:03:02Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T22:03:12Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T22:03:12.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T22:03:12Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T23:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T23:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T23:03:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T23:03:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T23:03:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T23:03:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T00:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T00:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T00:03:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T00:03:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T00:03:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T00:03:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T01:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T01:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T01:03:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T01:03:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T01:03:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T01:03:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T02:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T02:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T02:03:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T02:03:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T02:03:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T02:03:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T03:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T03:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T03:03:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T03:03:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T03:03:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T03:03:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T04:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T04:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T04:03:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T04:03:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T04:03:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T04:03:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T05:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T05:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T05:03:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T05:03:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T05:03:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T05:03:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T06:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T06:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T06:03:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T06:03:12Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T06:03:12.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T06:03:12Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T07:03:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T07:03:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T07:03:02Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T07:03:12Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T07:03:12.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T07:03:12Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T08:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T08:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T08:03:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T08:03:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T08:03:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T08:03:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T09:03:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T09:03:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T09:03:02Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T09:03:12Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T09:03:12.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T09:03:12Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T10:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T10:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T10:03:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T10:03:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T10:03:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T10:03:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T11:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T11:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T11:03:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T11:03:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T11:03:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T11:03:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T12:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T12:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T12:03:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T12:03:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T12:03:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T12:03:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T13:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T13:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T13:03:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T13:03:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T13:03:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T13:03:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T14:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T14:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T14:03:01Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T14:03:11Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T14:03:11.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T14:03:11Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T15:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T15:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T15:03:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-30T15:03:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>304421017926</ReportRequestId>
+      <SubmittedDate>2019-01-30T15:03:02+00:00</SubmittedDate>
+      <StartDate>2018-12-31T15:03:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>618bf27a-89d8-4779-bee1-f17a7237f920</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T15:03:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T15:03:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T15:03:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-30T15:03:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64171017926</ReportRequestId>
+      <SubmittedDate>2019-01-30T15:03:02+00:00</SubmittedDate>
+      <StartDate>2018-12-31T15:03:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>238b412c-f24d-4b76-9566-537a5d13306c</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T16:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T16:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T16:03:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-30T16:03:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>304462017926</ReportRequestId>
+      <SubmittedDate>2019-01-30T16:03:02+00:00</SubmittedDate>
+      <StartDate>2018-12-31T16:03:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>ec3edb60-6f3b-4807-87aa-2ed60bf698ec</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T16:03:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T16:03:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T16:03:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-30T16:03:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64190017926</ReportRequestId>
+      <SubmittedDate>2019-01-30T16:03:02+00:00</SubmittedDate>
+      <StartDate>2018-12-31T16:03:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>77f56fa1-cdbf-4154-b705-03a51530d343</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T17:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T17:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T17:03:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-30T17:03:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>304502017926</ReportRequestId>
+      <SubmittedDate>2019-01-30T17:03:02+00:00</SubmittedDate>
+      <StartDate>2018-12-31T17:03:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>1d726b6b-5ead-4aab-a0b5-b4fae8c593d2</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T17:03:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T17:03:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T17:03:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-30T17:03:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64207017926</ReportRequestId>
+      <SubmittedDate>2019-01-30T17:03:02+00:00</SubmittedDate>
+      <StartDate>2018-12-31T17:03:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>e5772d4d-b705-420e-819b-c3fe682c7f8b</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T18:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T18:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T18:03:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-30T18:03:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>304549017926</ReportRequestId>
+      <SubmittedDate>2019-01-30T18:03:01+00:00</SubmittedDate>
+      <StartDate>2018-12-31T18:03:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>acc452a2-1bd3-4505-9c88-6a69a4187faf</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T18:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T18:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T18:03:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-30T18:03:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64223017926</ReportRequestId>
+      <SubmittedDate>2019-01-30T18:03:01+00:00</SubmittedDate>
+      <StartDate>2018-12-31T18:03:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>47e1da98-b977-4c99-ae03-f281da566000</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T19:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T19:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T19:03:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-30T19:03:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>304596017926</ReportRequestId>
+      <SubmittedDate>2019-01-30T19:03:01+00:00</SubmittedDate>
+      <StartDate>2018-12-31T19:03:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>db6d108b-fcfc-4563-99f7-752203f323eb</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T19:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T19:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T19:03:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-30T19:03:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64240017926</ReportRequestId>
+      <SubmittedDate>2019-01-30T19:03:02+00:00</SubmittedDate>
+      <StartDate>2018-12-31T19:03:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>34db030a-9c54-4083-ab8c-dbad88864091</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T20:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T20:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T20:03:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-30T20:03:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>304637017926</ReportRequestId>
+      <SubmittedDate>2019-01-30T20:03:01+00:00</SubmittedDate>
+      <StartDate>2018-12-31T20:03:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>4b8f912d-2270-48c8-bd8c-4dc70dcad8fe</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T20:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T20:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T20:03:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-30T20:03:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64256017926</ReportRequestId>
+      <SubmittedDate>2019-01-30T20:03:01+00:00</SubmittedDate>
+      <StartDate>2018-12-31T20:03:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>5dae5c16-6af7-4cc3-a8d8-86dd199a572f</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T21:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T21:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T21:03:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-30T21:03:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>304678017926</ReportRequestId>
+      <SubmittedDate>2019-01-30T21:03:01+00:00</SubmittedDate>
+      <StartDate>2018-12-31T21:03:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>e222a455-c694-4c09-9844-2414bb526e86</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T21:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T21:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T21:03:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-30T21:03:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64272017926</ReportRequestId>
+      <SubmittedDate>2019-01-30T21:03:02+00:00</SubmittedDate>
+      <StartDate>2018-12-31T21:03:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>34f55f65-67b6-47f4-9af7-7cf54b4e3d2d</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T22:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T22:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T22:03:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-30T22:03:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>304718017926</ReportRequestId>
+      <SubmittedDate>2019-01-30T22:03:01+00:00</SubmittedDate>
+      <StartDate>2018-12-31T22:03:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>4fd394f7-50f6-4a42-9b8e-0c358a7e087f</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T22:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T22:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T22:03:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-30T22:03:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64288017926</ReportRequestId>
+      <SubmittedDate>2019-01-30T22:03:02+00:00</SubmittedDate>
+      <StartDate>2018-12-31T22:03:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>b74e35c5-83e1-4d8b-a690-c71b460b3ac7</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T23:03:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T23:03:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T23:03:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-30T23:03:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>304755017926</ReportRequestId>
+      <SubmittedDate>2019-01-30T23:03:02+00:00</SubmittedDate>
+      <StartDate>2018-12-31T23:03:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>dbe3f063-1908-486d-ab04-5affcbca5fd4</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T23:03:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T23:03:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T23:03:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-30T23:03:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64304017926</ReportRequestId>
+      <SubmittedDate>2019-01-30T23:03:02+00:00</SubmittedDate>
+      <StartDate>2018-12-31T23:03:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>616f1412-75d0-4e0c-a3c3-878088fd7548</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T00:03:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T00:03:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T00:03:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T00:03:03+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>304798017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T00:03:03+00:00</SubmittedDate>
+      <StartDate>2019-01-01T00:03:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>4279f549-a9f9-47f2-9184-5bdfaa2c924e</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T00:03:03Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T00:03:03.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T00:03:03Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T00:03:03+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64317017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T00:03:03+00:00</SubmittedDate>
+      <StartDate>2019-01-01T00:03:03+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>3927d763-32ed-486e-bb04-983675fe81d0</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200
+Fatal error: Out of memory (allocated 2097152) (tried to allocate 12288 bytes) in /var/www/html/system/database/DB_query_builder.php on line 2421
+
+Fatal error: Out of memory (allocated 2097152) (tried to allocate 32768 bytes) in /var/www/html/system/core/Exceptions.php on line 1
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T02:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T02:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T02:03:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T02:03:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>304875017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T02:03:01+00:00</SubmittedDate>
+      <StartDate>2019-01-01T02:03:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>89be1e75-296e-4764-aea1-6637c12296be</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T02:03:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T02:03:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T02:03:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T02:03:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64345017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T02:03:02+00:00</SubmittedDate>
+      <StartDate>2019-01-01T02:03:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>9b419f10-e3e3-43f7-a86f-23ec4d81742d</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T03:03:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T03:03:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T03:03:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T03:03:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>304922017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T03:03:02+00:00</SubmittedDate>
+      <StartDate>2019-01-01T03:03:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>7c6cb371-ccc3-4df3-81a5-5224cf4d021d</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T03:03:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T03:03:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T03:03:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T03:03:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64361017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T03:03:02+00:00</SubmittedDate>
+      <StartDate>2019-01-01T03:03:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>daab6b94-3586-4e7f-a27e-af17b7a83c9a</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T04:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T04:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T04:03:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T04:03:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>304966017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T04:03:02+00:00</SubmittedDate>
+      <StartDate>2019-01-01T04:03:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>a8823e19-f1a1-424a-9fbb-79e280cfcc29</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T04:03:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T04:03:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T04:03:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T04:03:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64377017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T04:03:02+00:00</SubmittedDate>
+      <StartDate>2019-01-01T04:03:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>92f75458-a738-4920-a7a2-57adcb3a3974</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T05:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T05:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T05:03:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T05:03:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305004017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T05:03:01+00:00</SubmittedDate>
+      <StartDate>2019-01-01T05:03:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>bf68d5e2-6077-41bf-a28a-7c8adb8f77ac</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T05:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T05:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T05:03:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T05:03:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64393017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T05:03:02+00:00</SubmittedDate>
+      <StartDate>2019-01-01T05:03:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>6cfffb85-61e3-4200-9ee2-8e255cb165fc</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T06:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T06:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T06:03:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T06:03:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305049017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T06:03:01+00:00</SubmittedDate>
+      <StartDate>2019-01-01T06:03:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>e5d75ea3-275c-4f65-a428-678f54e5d86a</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T06:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T06:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T06:03:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T06:03:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64408017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T06:03:02+00:00</SubmittedDate>
+      <StartDate>2019-01-01T06:03:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>bf1cf128-2495-4840-8f51-60d16d549d7b</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T07:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T07:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T07:03:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T07:03:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305097017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T07:03:02+00:00</SubmittedDate>
+      <StartDate>2019-01-01T07:03:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>f71ec7d7-c2af-4953-a5d5-83660fdf243b</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T07:03:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T07:03:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T07:03:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T07:03:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64425017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T07:03:02+00:00</SubmittedDate>
+      <StartDate>2019-01-01T07:03:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>6c77aa6c-4e8a-4a2e-b31a-06dd8fc502c7</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T08:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T08:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T08:03:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T08:03:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305150017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T08:03:02+00:00</SubmittedDate>
+      <StartDate>2019-01-01T08:03:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>eeb95853-b7c8-449b-9149-a45d09106f1c</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T08:03:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T08:03:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T08:03:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T08:03:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64441017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T08:03:02+00:00</SubmittedDate>
+      <StartDate>2019-01-01T08:03:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>a7a03fc2-823c-4ccd-8f8a-73e34553aad6</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T09:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T09:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T09:03:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T09:03:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305197017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T09:03:02+00:00</SubmittedDate>
+      <StartDate>2019-01-01T09:03:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>3b5acc05-072a-4f79-bf0a-e3fa2164a749</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T09:03:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T09:03:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T09:03:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T09:03:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64458017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T09:03:02+00:00</SubmittedDate>
+      <StartDate>2019-01-01T09:03:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>0c8f94f6-8977-4454-9c7b-7c4ade1ecc22</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T10:03:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T10:03:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T10:03:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T10:03:03+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305240017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T10:03:03+00:00</SubmittedDate>
+      <StartDate>2019-01-01T10:03:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>a5a7a2d2-7647-48df-bcde-c2216d2b59f8</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T10:03:03Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T10:03:03.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T10:03:03Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T10:03:03+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64473017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T10:03:03+00:00</SubmittedDate>
+      <StartDate>2019-01-01T10:03:03+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>1a59f31f-8983-43a2-bdbb-e8a35d504c80</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T11:03:05Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T11:03:05.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T11:03:05Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => getaddrinfo() thread failed to start
+
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T11:03:05Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T11:03:05.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T11:03:05Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => getaddrinfo() thread failed to start
+
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T12:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T12:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T12:03:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T12:03:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305316017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T12:03:01+00:00</SubmittedDate>
+      <StartDate>2019-01-01T12:03:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>300ff3f7-b55e-482f-835a-f6af56072c4a</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T12:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T12:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T12:03:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T12:03:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64497017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T12:03:01+00:00</SubmittedDate>
+      <StartDate>2019-01-01T12:03:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>04b4b027-588e-4837-bb2b-d1c7c79a8a46</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T13:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T13:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T13:03:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T13:03:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305357017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T13:03:01+00:00</SubmittedDate>
+      <StartDate>2019-01-01T13:03:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>98b46a52-6aed-43e6-a3da-681259e6c6d6</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T13:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T13:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T13:03:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T13:03:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64512017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T13:03:02+00:00</SubmittedDate>
+      <StartDate>2019-01-01T13:03:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>2a67fa53-265a-4649-8956-9ddc7fcc5314</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T14:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T14:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T14:03:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T14:03:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305399017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T14:03:02+00:00</SubmittedDate>
+      <StartDate>2019-01-01T14:03:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>055e0cca-ca36-4fda-b836-a017645e2f15</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T14:03:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T14:03:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T14:03:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T14:03:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64527017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T14:03:02+00:00</SubmittedDate>
+      <StartDate>2019-01-01T14:03:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>ca5b20c5-0273-4f4e-aa20-3ab3d1351dd9</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T15:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T15:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T15:03:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T15:03:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305439017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T15:03:01+00:00</SubmittedDate>
+      <StartDate>2019-01-01T15:03:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>38aa16e4-ece1-4d31-b419-203175e3bfca</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T15:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T15:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T15:03:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T15:03:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64542017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T15:03:02+00:00</SubmittedDate>
+      <StartDate>2019-01-01T15:03:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>027b17bd-32fe-4737-86d1-b8c7eccf4c41</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T16:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T16:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T16:03:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T16:03:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305480017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T16:03:01+00:00</SubmittedDate>
+      <StartDate>2019-01-01T16:03:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>c3670291-2397-4754-b2c0-34c1b849054b</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T16:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T16:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T16:03:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T16:03:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64559017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T16:03:01+00:00</SubmittedDate>
+      <StartDate>2019-01-01T16:03:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>6c1f68c3-be13-4742-835a-2272e333cac4</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T17:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T17:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T17:03:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T17:03:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305523017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T17:03:01+00:00</SubmittedDate>
+      <StartDate>2019-01-01T17:03:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>17ed2df3-5b90-4c9b-a9e4-8159c1f83c0c</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T17:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T17:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T17:03:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T17:03:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64574017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T17:03:02+00:00</SubmittedDate>
+      <StartDate>2019-01-01T17:03:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>b51e46b2-53fe-48fc-8d76-9b69db1d7f08</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T18:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T18:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T18:03:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T18:03:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305568017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T18:03:02+00:00</SubmittedDate>
+      <StartDate>2019-01-01T18:03:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>9ac80e29-fcf5-4964-931d-8051f1fa22d4</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T18:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T18:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T18:03:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T18:03:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64592017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T18:03:02+00:00</SubmittedDate>
+      <StartDate>2019-01-01T18:03:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>0bf91c34-1228-49e1-abef-04791cbb6791</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T19:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T19:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T19:03:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T19:03:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305613017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T19:03:02+00:00</SubmittedDate>
+      <StartDate>2019-01-01T19:03:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>75ef36cc-a3f2-484c-bb78-3d21aba3e5f5</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T19:03:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T19:03:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T19:03:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T19:03:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64609017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T19:03:02+00:00</SubmittedDate>
+      <StartDate>2019-01-01T19:03:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>663bf9da-480b-4663-baaf-9f00a4021e9a</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T20:03:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T20:03:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T20:03:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T20:03:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305652017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T20:03:02+00:00</SubmittedDate>
+      <StartDate>2019-01-01T20:03:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>99d24981-eaef-410f-b37b-fead62fdd9da</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T20:03:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T20:03:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T20:03:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T20:03:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64623017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T20:03:02+00:00</SubmittedDate>
+      <StartDate>2019-01-01T20:03:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>aa3b55b3-8951-4cbd-8df4-05ab02a051d2</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200
+Fatal error: Out of memory (allocated 2097152) (tried to allocate 12288 bytes) in /var/www/html/system/database/DB_query_builder.php on line 2421
+
+Fatal error: Out of memory (allocated 2097152) (tried to allocate 32768 bytes) in /var/www/html/system/core/Exceptions.php on line 1
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T23:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T23:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T23:03:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T23:03:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305753017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T23:03:02+00:00</SubmittedDate>
+      <StartDate>2019-01-01T23:03:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>a3a780a1-ab1b-47ed-bf2b-dcaf46ecf3f3</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T23:03:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-31T23:03:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-01T23:03:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-01-31T23:03:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64652017927</ReportRequestId>
+      <SubmittedDate>2019-01-31T23:03:02+00:00</SubmittedDate>
+      <StartDate>2019-01-01T23:03:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>91421090-7f8b-47da-b3f6-dd7f4d66b62e</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-02T00:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-02-01T00:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-02T00:03:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-02-01T00:03:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305798017928</ReportRequestId>
+      <SubmittedDate>2019-02-01T00:03:02+00:00</SubmittedDate>
+      <StartDate>2019-01-02T00:03:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>59259afa-58e6-45f1-ab7a-ba36cb7a342a</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-02T00:03:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-02-01T00:03:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-02T00:03:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-02-01T00:03:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64670017928</ReportRequestId>
+      <SubmittedDate>2019-02-01T00:03:02+00:00</SubmittedDate>
+      <StartDate>2019-01-02T00:03:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>4e615f07-0d46-402d-a73b-58005d251ea2</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-02T01:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-02-01T01:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-02T01:03:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-02-01T01:03:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305844017928</ReportRequestId>
+      <SubmittedDate>2019-02-01T01:03:02+00:00</SubmittedDate>
+      <StartDate>2019-01-02T01:03:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>6e95096d-c708-496a-9893-b8d5e44adc79</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-02T01:03:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-02-01T01:03:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-02T01:03:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-02-01T01:03:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64686017928</ReportRequestId>
+      <SubmittedDate>2019-02-01T01:03:02+00:00</SubmittedDate>
+      <StartDate>2019-01-02T01:03:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>000336a7-7461-4f55-8f23-83af46d4c8f9</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-02T02:03:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-02-01T02:03:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-02T02:03:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-02-01T02:03:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305892017928</ReportRequestId>
+      <SubmittedDate>2019-02-01T02:03:02+00:00</SubmittedDate>
+      <StartDate>2019-01-02T02:03:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>87790c63-482d-40b7-92b3-9d1a4a7e5a08</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-02T02:03:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-02-01T02:03:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-02T02:03:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-02-01T02:03:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64703017928</ReportRequestId>
+      <SubmittedDate>2019-02-01T02:03:02+00:00</SubmittedDate>
+      <StartDate>2019-01-02T02:03:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>22e32107-2ad3-4f06-9663-3fb92f087349</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-02T03:03:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-02-01T03:03:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-02T03:03:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-02-01T03:03:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305934017928</ReportRequestId>
+      <SubmittedDate>2019-02-01T03:03:02+00:00</SubmittedDate>
+      <StartDate>2019-01-02T03:03:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>b97d9040-109a-4cba-9e1a-3403517694f9</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-02T03:03:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-02-01T03:03:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-02T03:03:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-02-01T03:03:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64719017928</ReportRequestId>
+      <SubmittedDate>2019-02-01T03:03:02+00:00</SubmittedDate>
+      <StartDate>2019-01-02T03:03:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>e4a6929a-8523-4c18-9638-398b143113f6</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-02T04:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-02-01T04:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-02T04:03:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-02-01T04:03:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>305976017928</ReportRequestId>
+      <SubmittedDate>2019-02-01T04:03:01+00:00</SubmittedDate>
+      <StartDate>2019-01-02T04:03:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>b91946cd-5f33-4314-b429-71cdee096483</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-02T04:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-02-01T04:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-02T04:03:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-02-01T04:03:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64736017928</ReportRequestId>
+      <SubmittedDate>2019-02-01T04:03:02+00:00</SubmittedDate>
+      <StartDate>2019-01-02T04:03:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>3936c52b-3910-4f1d-9497-a7a4e221d7cd</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-02T05:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-02-01T05:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-02T05:03:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-02-01T05:03:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>306015017928</ReportRequestId>
+      <SubmittedDate>2019-02-01T05:03:01+00:00</SubmittedDate>
+      <StartDate>2019-01-02T05:03:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>da962f23-c037-4288-9481-d99d144287e5</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-02T05:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-02-01T05:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-02T05:03:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-02-01T05:03:02+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64755017928</ReportRequestId>
+      <SubmittedDate>2019-02-01T05:03:02+00:00</SubmittedDate>
+      <StartDate>2019-01-02T05:03:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>fa9d1f8e-5d50-4719-b0fa-3c2ac235560f</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-02T06:03:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-02-01T06:03:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-02T06:03:02Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-02-01T06:03:03+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>306060017928</ReportRequestId>
+      <SubmittedDate>2019-02-01T06:03:03+00:00</SubmittedDate>
+      <StartDate>2019-01-02T06:03:02+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>cb7efadd-006b-4715-90a5-bc80c9568383</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-02T06:03:03Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-02-01T06:03:03.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-02T06:03:03Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-02-01T06:03:04+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64768017928</ReportRequestId>
+      <SubmittedDate>2019-02-01T06:03:04+00:00</SubmittedDate>
+      <StartDate>2019-01-02T06:03:03+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>4ff1160c-8609-4512-956a-7a1c1fe47769</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-02T07:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-02-01T07:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-02T07:03:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-02-01T07:03:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>306098017928</ReportRequestId>
+      <SubmittedDate>2019-02-01T07:03:01+00:00</SubmittedDate>
+      <StartDate>2019-01-02T07:03:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>5c005d52-2b0b-4faf-8326-11a2af22e1fc</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-02T07:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-02-01T07:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-02T07:03:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-02-01T07:03:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64779017928</ReportRequestId>
+      <SubmittedDate>2019-02-01T07:03:01+00:00</SubmittedDate>
+      <StartDate>2019-01-02T07:03:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>e9ea694a-a761-4a02-92c8-9a8b60db7f00</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-02T08:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-02-01T08:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-02T08:03:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-02-01T08:03:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>306148017928</ReportRequestId>
+      <SubmittedDate>2019-02-01T08:03:01+00:00</SubmittedDate>
+      <StartDate>2019-01-02T08:03:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>65b0b580-e6c2-4fbf-b934-7d4d22ccfc0f</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-02T08:03:01Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-02-01T08:03:01.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2019-01-02T08:03:01Z
+)
+Array
+(
+    [status_code] => 1
+    [status_text] => Success
+    [payload] => <?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FBA_FULFILLMENT_CUSTOMER_SHIPMENT_REPLACEMENT_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2019-02-01T08:03:01+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>64797017928</ReportRequestId>
+      <SubmittedDate>2019-02-01T08:03:01+00:00</SubmittedDate>
+      <StartDate>2019-01-02T08:03:01+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>d64f73bb-b82e-4b7d-b968-17ceed32e9a0</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>
+
+)
+200

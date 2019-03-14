@@ -1,0 +1,73 @@
+.pricing-plan {
+    padding-bottom: 50px;
+}
+.price_card {
+    background: #fafafa none repeat scroll 0 0;
+    border-radius: 5px;
+    box-shadow: 3px 3px 4px 3px rgba(0, 0, 0, 0.1);
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+    position: relative;
+}
+.pricing-header {
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    color: #ffffff;
+}
+.bg-primary {
+    background-color: #5d9cec !important;
+}
+.price-features {
+    color: #8a8a8a;
+    list-style: outside none none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.bg-pink {
+    background-color: #fb6d9d !important;
+}
+.bg-purple {
+    background-color: #7266ba !important;
+}
+.bg-success {
+    background-color: #81c868 !important;
+}
+.price-features li {
+    margin: 0 35px;
+    padding: 20px 15px;
+}
+.price {
+    display: block;
+    font-size: 48px;
+    font-weight: 300;
+    padding: 30px 0 10px;
+    text-align: center;
+    width: 100%;
+}
+.price_card .name {
+    display: block;
+    font-size: 16px;
+    font-weight: 700;
+    padding: 0 0 30px;
+    text-align: center;
+    width: 100%;
+}
+.btn-pink, .btn-pink:hover, .btn-pink:focus, .btn-pink:active {
+    background-color: #fb6d9d !important;
+    border: 1px solid #fb6d9d !important;
+    color: #ffffff;
+}
+.btn-purple, .btn-purple:hover, .btn-purple:focus, .btn-purple:active {
+    background-color: #7266ba !important;
+    border: 1px solid #7266ba !important;
+    color: #ffffff;
+}
+.price_card:hover {
+    background: #fafafa none repeat scroll 0 0;
+    border-radius: 5px;
+    box-shadow: 10px 10px 12px 10px rgba(0, 0, 0, 0.2);
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+    position: relative;
+}

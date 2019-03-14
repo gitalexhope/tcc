@@ -1,0 +1,133 @@
+  200200  200200  200200
+Fatal error: Out of memory (allocated 2097152) (tried to allocate 12288 bytes) in /var/www/html/system/database/DB_query_builder.php on line 2421
+
+Fatal error: Out of memory (allocated 2097152) (tried to allocate 32768 bytes) in /var/www/html/system/core/Exceptions.php on line 1
+  200200  200200  200200  200200  
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /var/www/html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 201
+
+Backtrace:
+	File: /var/www/html/application/controllers/cron/Report_api.php
+	Line: 7
+	Function: __construct
+
+	File: /var/www/html/index.php
+	Line: 315
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: controllers/cron/Report_api.php
+	Line Number: 7
+
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_RETURNS_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T10:00:02Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T10:00:02.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_RETURNS_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T10:00:02Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_RETURNS_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T10:00:12Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-29T10:00:12.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_RETURNS_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-30T10:00:12Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+  Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_RETURNS_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T10:00:03Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => AO1Q865UF7VZH
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T10:00:03.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.48b3d760-b504-e217-3b5d-82fe23080eb5
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_RETURNS_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T10:00:03Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
+Array
+(
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_RETURNS_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T10:00:13Z
+)
+Array
+(
+    [AWSAccessKeyId] => AKIAIP4IUQSSOQXEBSAA
+    [Merchant] => A2WSP9JIWDS14B
+    [SignatureMethod] => HmacSHA256
+    [SignatureVersion] => 2
+    [Timestamp] => 2019-01-30T10:00:13.000Z
+    [Version] => 2009-01-01
+    [MWSAuthToken] => amzn.mws.5ab3d6fc-880f-1ce3-4881-a52411909525
+    [Action] => RequestReport
+    [ReportType] => _GET_FBA_FULFILLMENT_CUSTOMER_RETURNS_DATA_
+    [MarketplaceIdList.Id.1] => ATVPDKIKX0DER
+    [StartDate] => 2018-12-31T10:00:13Z
+)
+Array
+(
+    [status_code] => 0
+    [status_text] => Could not resolve host: mws.amazonservices.com
+)
